@@ -1,4 +1,4 @@
-# CISSP-Notes-Card
+# CISSP Notes Card
 An open source collaborative CISSP notes card.
 
 Lead by the authors of:
