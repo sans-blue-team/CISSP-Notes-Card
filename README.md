@@ -15,18 +15,18 @@ Designed for the [2015 CISSP® Exam] (https://www.isc2.org/uploadedfiles/(isc)2_
 * [Domain 3: Security Engineering] (Domain-3-Security-Engineering) 
 * [Domain 4: Communication and Network Security] (Domain-4-Communication-and-Network-Security) 
 * [Domain 5: Identity and Access Management] (Domain-5-Identity-and-Access-Management) 
-* [Domain 6: Security Assessment and Testing] (Domain-:-Security-Assessment-and-Testing) 
+* [Domain 6: Security Assessment and Testing] (Domain-6-Security-Assessment-and-Testing) 
 * [Domain 7: Security Operations] (Domain-7-Security-Operations) 
 * [Domain 8: Software Development Security] (Domain-8-Software-Development-Security) 
 
-### Domain 1: Security and Risk Management
+### Domain 1 Security and Risk Management
 Blah
-### Domain 2: Asset Security 
-###Domain 3: Security Engineering 
-###Domain 4: Communication and Network Security
-###Domain 5: Identity and Access Management
-###Domain 6: Security Assessment and Testing
-###Domain 7: Security Operations
-###Domain 8: Software Development Security
+### Domain 2 Asset Security 
+###Domain 3 Security Engineering 
+###Domain 4 Communication and Network Security
+###Domain 5 Identity and Access Management
+###Domain 6 Security Assessment and Testing
+###Domain 7 Security Operations
+###Domain 8 Software Development Security
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
