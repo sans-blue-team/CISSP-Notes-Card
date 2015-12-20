@@ -1,12 +1,12 @@
-# CISSP Notes Card
-An open source collaborative CISSP notes card.
+# CISSP® Notes Card
+An open source collaborative CISSP® notes card.
 
 Lead by the authors of:
  - [MGT414: SANS Training Program for CISSP® Certification] (https://www.sans.org/course/sans-plus-s-training-program-cissp-certification-exam)
- - [CISSP Study Guide, Third Edition] (http://www.amazon.com/CISSP-Study-Guide-Third-Conrad/dp/0128024372)
- - [Eleventh Hour CISSP, Second Edition] (http://www.amazon.com/Eleventh-Hour-CISSP-Second-Edition/dp/0124171427)
+ - [CISSP® Study Guide, Third Edition] (http://www.amazon.com/CISSP-Study-Guide-Third-Conrad/dp/0128024372)
+ - [Eleventh Hour CISSP®, Second Edition] (http://www.amazon.com/Eleventh-Hour-CISSP-Second-Edition/dp/0124171427)
 
-Designed for the [2015 CISSP Exam] (https://www.isc2.org/uploadedfiles/(isc)2_public_content/exam_outlines/cissp-exam-outline-april-2015.pdf), inspired by the awesome [CISSP Sunflower Guide] (http://www.kilala.nl/Sysadmin/Images/CISSP_Summary_V1.1.pdf)
+Designed for the [2015 CISSP® Exam] (https://www.isc2.org/uploadedfiles/(isc)2_public_content/exam_outlines/cissp-exam-outline-april-2015.pdf), inspired by the awesome [CISSP® Sunflower Guide] (http://www.kilala.nl/Sysadmin/Images/CISSP_Summary_V1.1.pdf)
 
 ###Domains
 
