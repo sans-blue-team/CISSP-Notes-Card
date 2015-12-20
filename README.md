@@ -10,7 +10,8 @@ Designed for the [2015 CISSP® Exam] (https://www.isc2.org/uploadedfiles/(isc)2_
 
 ---------
 
-###Domains
+### Domains
+
 * [Domain 1: Security and Risk Management](#Domain-1-Security-and-Risk-Management) 
 * [Domain 2: Asset Security](#Domain-2-Asset-Security) 
 * [Domain 3: Security Engineering](#Domain-3-Security-Engineering) 
@@ -19,6 +20,7 @@ Designed for the [2015 CISSP® Exam] (https://www.isc2.org/uploadedfiles/(isc)2_
 * [Domain 6: Security Assessment and Testing](#Domain-6-Security-Assessment-and-Testing) 
 * [Domain 7: Security Operations](#Domain-7-Security-Operations) 
 * [Domain 8: Software Development Security](#Domain-8-Software-Development-Security)
+
 ---------
 ### Domain 1 Security and Risk Management
 
