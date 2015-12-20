@@ -8,18 +8,20 @@ Lead by the authors of:
 
 Designed for the [2015 CISSP® Exam] (https://www.isc2.org/uploadedfiles/(isc)2_public_content/exam_outlines/cissp-exam-outline-april-2015.pdf), inspired by the awesome [CISSP® Sunflower Guide] (http://www.kilala.nl/Sysadmin/Images/CISSP_Summary_V1.1.pdf)
 
+---------
+
 ###Domains
-
-* [Domain 1: Security and Risk Management] (#Domain-1-Security-and-Risk-Management) 
-* [Domain 2: Asset Security] (#Domain-2-Asset-Security) 
-* [Domain 3: Security Engineering] (#Domain-3-Security-Engineering) 
-* [Domain 4: Communication and Network Security] (#Domain-4-Communication-and-Network-Security) 
-* [Domain 5: Identity and Access Management] (#Domain-5-Identity-and-Access-Management) 
-* [Domain 6: Security Assessment and Testing] (#Domain-6-Security-Assessment-and-Testing) 
-* [Domain 7: Security Operations] (#Domain-7-Security-Operations) 
-* [Domain 8: Software Development Security] (#Domain-8-Software-Development-Security) 
-
+* [Domain 1: Security and Risk Management](#Domain-1-Security-and-Risk-Management) 
+* [Domain 2: Asset Security](#Domain-2-Asset-Security) 
+* [Domain 3: Security Engineering](#Domain-3-Security-Engineering) 
+* [Domain 4: Communication and Network Security](#Domain-4-Communication-and-Network-Security) 
+* [Domain 5: Identity and Access Management](#Domain-5-Identity-and-Access-Management) 
+* [Domain 6: Security Assessment and Testing](#Domain-6-Security-Assessment-and-Testing) 
+* [Domain 7: Security Operations](#Domain-7-Security-Operations) 
+* [Domain 8: Software Development Security](#Domain-8-Software-Development-Security)
+---------
 ### Domain 1 Security and Risk Management
+
 Blah
 ### Domain 2 Asset Security 
 ###Domain 3 Security Engineering 
