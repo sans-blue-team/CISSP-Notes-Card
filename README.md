@@ -13,7 +13,7 @@ Designed for the [2015 CISSP Exam] (https://www.isc2.org/uploadedfiles/(isc)2_pu
 - [Domain 1: Security and Risk Management] (/domain1.md) 
 - [Domain 2: Asset Security] (/domain2.md) 
 - [Domain 3: Security Engineering] (/domain3.md) 
-- [Domain 4: Communication and Network Security] (/domain5.md) 
+- [Domain 4: Communication and Network Security] (/domain4.md) 
 - [Domain 5: Identity and Access Management] (/domain5.md) 
 - [Domain 6: Security Assessment and Testing] (/domain6.md) 
 - [Domain 7: Security Operations] (/domain7.md) 
